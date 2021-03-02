@@ -1,2 +1,2 @@
 # Pyproject
-Archive of discord bots. V means version, so eac version will get it's own file.
+Archive of discord bots. V means version, so each version will get it's own file.
